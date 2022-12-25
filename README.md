@@ -10,5 +10,5 @@ In this repo, I convert the player JSON data into pandas dataframe. I manually c
 
 Currently, I use the dataframe to see injured players, and list of players who may get more time as a result. 
 
-More updates probablhy coming soon depening on what I need. Could convert to scripts if I find multiple utilities.
+More updates probably coming soon. Depends on what I need. Could convert to scripts if I find multiple utilities.
 
